@@ -2,19 +2,19 @@
 baseurl = "/"
 themesDir = "themes/"
 languageCode = "en-us"
-title = "Hugo Cactus Theme"
+title = "I'm ok!"
 theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 # Disable comments by leaving disqusShortname empty
-disqusShortname = "spf13"
+disqusShortname = ""
 
 [params]
-	name = "John Doe"
-	description = "Describe your website"
+	name = "Josh Nothum"
+	description = "A blog for Josh Nothum"
 	bio = "Blogger & Programmer"
 	# Enter optionally your twitter account
-	twitter = "Your Twitter account"
+	twitter = "josh_nothum"
 	enableRSS = true
 
 	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
@@ -34,7 +34,7 @@ disqusShortname = "spf13"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "I'm an blogger."
+	aboutAuthor = "I'm a blogger."
 	tweet = ""
 	share = ""
 	# 404 page
@@ -42,13 +42,11 @@ disqusShortname = "spf13"
 	subtitle404 = ""
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-	iconFont = "mono-social"
+	iconFont = "font-awesome"
     # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
     socialIconStyle = "circle"
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://www.twitter.com/"
-    facebook = "https://www.facebook.com/"
-    github   = "https://www.github.com/"
-    dribble  = "https://www.dribbble.com/"
+    twitter  = "https://www.twitter.com/josh_nothum"
+    github   = "https://www.github.com/joshnothum"
