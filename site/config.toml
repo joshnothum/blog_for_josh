@@ -12,10 +12,10 @@ disqusShortname = ""
 [params]
 	name = "Josh Nothum"
 	description = "A blog for Josh Nothum"
-	bio = "Blogger & Programmer"
+	bio = "Recovering saracast; Programmer; Basketball player"
 	# Enter optionally your twitter account
-	twitter = "josh_nothum"
-	enableRSS = true
+	twitter = "https://twitter.com/josh_nothum"
+	enableRSS = false
 
 	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
 	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -34,7 +34,7 @@ disqusShortname = ""
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "I'm a blogger."
+	aboutAuthor = ""
 	tweet = ""
 	share = ""
 	# 404 page
