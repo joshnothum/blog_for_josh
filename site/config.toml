@@ -10,9 +10,9 @@ googleAnalytics = "UA-93514740-2"
 disqusShortname = ""
 
 [params]
-	name = "Josh Nothum"
+	name = "6ixes"
 	description = "A blog for Josh Nothum"
-	bio = "Recovering saracast; Programmer; Basketball player"
+	bio = "Recovering saracast; Programmer; Basketball player; List maker"
 	# Enter optionally your twitter account
 	twitter = "https://twitter.com/josh_nothum"
 	enableRSS = false

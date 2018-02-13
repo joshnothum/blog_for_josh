@@ -1,7 +1,7 @@
 ---
 title: "6 Introductory statements about 6ixes"
 author: "Josh Nothum"
-tags = [
+tags : [
     "josh-nothum",
     "statements",
 ]
