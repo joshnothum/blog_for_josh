@@ -26,7 +26,7 @@ disqusShortname = "@joshnothum"
 	# translate or customize each string of the theme.
 
 	# Navigation links
-	home = ""
+	home = "www.joshnothum.com"
 	subscribe = ""
 	# Pagination links
 	olderPosts = ""
@@ -34,7 +34,7 @@ disqusShortname = "@joshnothum"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = ""
+	aboutAuthor = "He's open to suggestions."
 	tweet = ""
 	share = ""
 	# 404 page
