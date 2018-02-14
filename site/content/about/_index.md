@@ -4,4 +4,6 @@ date: 2018-02-09T21:43:56-06:00
 draft: false
 ---
 
-## are we real?
+## Josh Nothum
+
+He plays basketball.  He likes cartoons.  He makes lists.  He's probably still alive.
