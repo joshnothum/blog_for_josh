@@ -11,7 +11,7 @@ disqusShortname = "www-joshnothum-tech"
 
 [params]
 	name = "Josh Nothum presents 6ixes"
-	description = "6ixes are lists of 6; They mean nothing; They are written by me for no reason."
+	description = "6ixes are lists of 6; They mean nothing; They are written by J$ for no reason."
 	bio = "Recovering saracast; Programmer; Basketball player; List maker"
 	# Enter optionally your twitter account
 	twitter = "https://twitter.com/josh_nothum"
@@ -34,7 +34,7 @@ disqusShortname = "www-joshnothum-tech"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "He's open to suggestions."
+	aboutAuthor = "We're open to suggestions."
 	tweet = ""
 	share = ""
 	# 404 page
