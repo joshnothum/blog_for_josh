@@ -7,11 +7,11 @@ theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-93514740-2"
 # Disable comments by leaving disqusShortname empty
-disqusShortname = "@joshnothum"
+disqusShortname = "www-joshnothum-tech"
 
 [params]
-	name = "6ixes"
-	description = "A blog for Josh Nothum"
+	name = "Josh Nothum presents 6ixes"
+	description = "6ixes are lists of 6; They mean nothing; They are written by me for no reason."
 	bio = "Recovering saracast; Programmer; Basketball player; List maker"
 	# Enter optionally your twitter account
 	twitter = "https://twitter.com/josh_nothum"
