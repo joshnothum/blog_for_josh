@@ -5,7 +5,7 @@ tags : [
     "josh-nothum",
     "girlfriend",
 ]
-linktitle: "6 Introductory statements about 6ixes"
+linktitle: "6 Reasons my last girlfriend is my ex girlfriend"
 date: 2017-03-09
 draft: false
 ---
