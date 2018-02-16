@@ -2,7 +2,7 @@
 baseurl = "/"
 themesDir = "themes/"
 languageCode = "en-us"
-title = "I'm ok!"
+title = "6ixes"
 theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-93514740-2"
@@ -11,7 +11,7 @@ disqusShortname = "www-joshnothum-tech"
 
 [params]
 	name = "Josh Nothum presents 6ixes"
-	description = "6ixes are lists of 6; They mean nothing; They are written by J$ for no reason."
+	description = "6ixes are lists of 6; They mean nothing; They are written by Josh Nothum for no reason."
 	bio = "Recovering saracast; Programmer; Basketball player; List maker"
 	# Enter optionally your twitter account
 	twitter = "https://twitter.com/josh_nothum"
@@ -34,7 +34,7 @@ disqusShortname = "www-joshnothum-tech"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "We're open to suggestions."
+	aboutAuthor = "An asipiring ironist."
 	tweet = ""
 	share = ""
 	# 404 page
