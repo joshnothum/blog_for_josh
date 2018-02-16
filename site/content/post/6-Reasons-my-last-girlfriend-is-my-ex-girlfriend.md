@@ -1,11 +1,11 @@
 ---
-title: "6 Reasons my last girlfriend is my ex girlfriend (chronological order)"
+title: "6 Undersung ABA players"
 author: "Josh Nothum"
 tags : [
     "josh-nothum",
     "girlfriend",
 ]
-linktitle: "6 Reasons my last girlfriend is my ex girlfriend"
+linktitle: "6 Undersung ABA players"
 date: 2017-03-09
 draft: false
 ---
