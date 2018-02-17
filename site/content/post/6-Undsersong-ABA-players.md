@@ -1,11 +1,11 @@
 ---
-title: "6 Assumptions I make about people who wear glasses"
+title: "6 Undersung ABA players"
 author: "Josh Nothum"
 tags : [
     "josh-nothum",
     "basketball",
 ]
-linktitle: "6 Assumptions I make about people who wear glasses"
+linktitle: "6 Undersung ABA players"
 date: 2017-03-10T21:44:45-06:00
 draft: false
 ---
