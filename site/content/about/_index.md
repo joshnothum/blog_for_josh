@@ -6,4 +6,4 @@ draft: false
 
 ## Josh Nothum
 
-He plays basketball.  He likes cartoons.  He makes lists.  He's probably still alive.
+He plays basketball.  He likes pizza.  He makes lists.  He's probably still alive.
