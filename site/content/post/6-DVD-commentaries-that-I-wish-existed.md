@@ -3,9 +3,10 @@ title: "6 DVD commentaries that I wish existed"
 author: "Josh Nothum"
 tags : [
     "josh-nothum",
-    "basketball",
+    "DVD",
 ]
 linktitle: "6 DVD commentaries that I wish existed"
+date: 2017-04-03T21:44:45-06:00
 draft: false
 ---
 * Chris Farley and David Spade - 'Tommy Boy'
