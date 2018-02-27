@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "www.joshnothum.tech/"
 themesDir = "themes/"
 languageCode = "en-us"
 title = "6ixes"
@@ -11,8 +11,9 @@ disqusShortname = "www-joshnothum-tech"
 
 [params]
 	name = "Josh Nothum presents 6ixes"
-	description = "6ixes are lists of 6; They mean nothing; They are written by Josh Nothum for no reason."
-	bio = "Recovering sarcast; Ensorcelled programmer; Basketball player; List maker"
+	description = "6ixes are lists of 6; They mean nothing; They are written by Josh Nothum for absolutely no reason."
+	bio = ""
+	SidebarRecentLimit: 5
 	# Enter optionally your twitter account
 	twitter = "https://twitter.com/josh_nothum"
 	enableRSS = false
