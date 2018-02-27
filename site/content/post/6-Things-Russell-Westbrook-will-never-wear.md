@@ -2,12 +2,12 @@
 title: "6 Things Russell Westbrook will never wear"
 author: "Josh Nothum"
 tags : [
-    "josh nothum",
+    "josh-nothum",
     "basketball",
     "russell-westbrook",
 ]
 linktitle: "6 Things Russell Westbrook will never wear"
-date: 2017-03-31
+date: 2017-03-31T21:44:45-06:00
 draft: false
 ---
 

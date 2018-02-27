@@ -10,8 +10,6 @@ date: 2017-03-23T21:44:45-06:00
 draft: false
 ---
 
-Josh Nothum
-
 * 2nd Monday of October (Columbus Day)
 * March 15th (father of @elbirdos86)
 * March 18th (@bigelowjames)

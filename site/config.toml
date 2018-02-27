@@ -12,7 +12,7 @@ disqusShortname = "www-joshnothum-tech"
 [params]
 	name = "Josh Nothum presents 6ixes"
 	description = "6ixes are lists of 6; They mean nothing; They are written by Josh Nothum for no reason."
-	bio = "Recovering sarcast; Programmer; Basketball player; List maker"
+	bio = "Recovering sarcast; Ensorcelled programmer; Basketball player; List maker"
 	# Enter optionally your twitter account
 	twitter = "https://twitter.com/josh_nothum"
 	enableRSS = false
