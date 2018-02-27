@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://www.joshnothum.tech/"
+baseurl = "/"
 themesDir = "themes/"
 languageCode = "en-us"
 title = "6ixes"
@@ -13,7 +13,6 @@ disqusShortname = "www-joshnothum-tech"
 	name = "Josh Nothum presents 6ixes"
 	description = "6ixes are lists of 6; They mean nothing; They are written by Josh Nothum for absolutely no reason."
 	bio = ""
-	SidebarRecentLimit: 5
 	# Enter optionally your twitter account
 	twitter = "https://twitter.com/josh_nothum"
 	enableRSS = false
@@ -30,9 +29,9 @@ disqusShortname = "www-joshnothum-tech"
 	home = "Home"
 	subscribe = ""
 	# Pagination links
-	olderPosts = ""
-	newerPosts = ""
-	readMore = ""
+	olderPosts = "true"
+	newerPosts = "true"
+	readMore = "true"
 	copyright = ""
 	# Sharing options and author information in posts
 	aboutAuthor = "An asipiring ironist."
@@ -42,9 +41,13 @@ disqusShortname = "www-joshnothum-tech"
 	title404 = ""
 	subtitle404 = ""
 
-	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+sitemap = "https://www.joshnothum.tech/"
+
+
+
+# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
 	iconFont = "font-awesome"
-    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+# The social icons can be styled differently if you use mono as font - circle, rounded, or empty
     socialIconStyle = "circle"
 
 # Add additional social link entries underneath
