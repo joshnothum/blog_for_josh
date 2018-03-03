@@ -7,6 +7,8 @@ theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-93514740-2"
 # Disable comments by leaving disqusShortname empty
+paginate = 6
+canonifyURL = true
 disqusShortname = "www-joshnothum-tech"
 
 [params]
@@ -29,8 +31,9 @@ disqusShortname = "www-joshnothum-tech"
 	home = "Home"
 	subscribe = ""
 	# Pagination links
-	olderPosts = "true"
-	newerPosts = "true"
+	paginate (5)
+	olderPosts = "Old"
+	newerPosts = "New"
 	readMore = "true"
 	copyright = ""
 	# Sharing options and author information in posts
