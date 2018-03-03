@@ -31,7 +31,6 @@ disqusShortname = "www-joshnothum-tech"
 	home = "Home"
 	subscribe = ""
 	# Pagination links
-	paginate (5)
 	olderPosts = "Old"
 	newerPosts = "New"
 	readMore = "true"
