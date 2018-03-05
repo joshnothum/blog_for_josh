@@ -4,6 +4,7 @@ author: "Josh Nothum"
 tags : [
     "josh-nothum",
     "statements",
+    "6ixes"
 ]
 linktitle: "6 Introductory statements about 6ixes"
 date: 2017-02-17T21:44:45-06:00
