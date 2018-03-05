@@ -7,4 +7,11 @@ menu: "main"
 
 ## Josh Nothum
 
-He plays basketball.  He likes pizza.  He makes lists.  He's probably still alive. He lives in Minneapolis.
+He plays basketball. He makes writes code. He lives in Minneapolis. He's probably still alive.
+___
+
+[Landing Site](https://www.joshnothum.xyz)
+
+[He played football a long time ago](https://mosports.rivals.com/news/missouri-football-coaches-all-state-team-class-4)
+
+[He has a sister](https://www.createdbyallie.com/)
