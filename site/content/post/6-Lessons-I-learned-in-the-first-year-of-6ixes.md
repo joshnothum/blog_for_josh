@@ -10,7 +10,7 @@ draft: false
 ---
 
 * I’m cisgender. Apparently.
-* There is always, no matter what day of the year it is, a winter storm approaching Minneapolis.
+* There is **ALWAYS**, no matter what day of the year it is, a winter storm approaching Minneapolis.
 * Even if no one reads your blog, you still have to pay hosting fees.
 * Lists of 4 would have been easier and funnier.
 * It can always get worse.
