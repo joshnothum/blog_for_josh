@@ -13,6 +13,8 @@ ___
 
 #### He has a few friends:
 
-* [Allie Nothum](https://www.createdbyallie.com/)
-* [Zack Stout](http://www.zstout.com)
-* [Blaze Fugina](http://blazefugina.com/#/)
+ [Allie Nothum](https://www.createdbyallie.com/)
+
+ [Zack Stout](http://www.zstout.com) 
+
+ [Blaze Fugina](http://blazefugina.com/#/)
