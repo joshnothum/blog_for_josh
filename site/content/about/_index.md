@@ -7,7 +7,7 @@ menu: "main"
 
 ## Josh Nothum
 
-He plays basketball. He's a happily retired fantasy football champion. He lives in Minneapolis. He's probably still alive.
+He plays basketball. He aspires to iron his clothes. He lives in Minneapolis. He's probably still alive.
 ___
 
 
