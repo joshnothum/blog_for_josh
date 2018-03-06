@@ -11,10 +11,12 @@ He plays basketball. He's a happily retired fantasy football champion. He lives 
 ___
 
 
-#### He has a few friends:
+#### These folks tolerate him:
 
- [Allie Nothum](https://www.createdbyallie.com/)
+[Allie Nothum](https://www.createdbyallie.com/)
 
- [Zack Stout](http://www.zstout.com) 
+[Zack Stout](http://www.zstout.com) 
 
- [Blaze Fugina](http://blazefugina.com/#/)
+[Blaze Fugina](http://blazefugina.com/#/)
+
+[Kyle Bigelow](https://twitter.com/bigelowjames)
