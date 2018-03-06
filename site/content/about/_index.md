@@ -7,11 +7,12 @@ menu: "main"
 
 ## Josh Nothum
 
-He plays basketball. He makes writes code. He lives in Minneapolis. He's probably still alive.
+He plays basketball. He's a happily retired fantasy football champion. He lives in Minneapolis. He's probably still alive.
 ___
 
-[Landing Site](https://www.joshnothum.xyz)
 
-[He played football a long time ago](https://mosports.rivals.com/news/missouri-football-coaches-all-state-team-class-4)
+#### He has a few friends:
 
-[He has a sister](https://www.createdbyallie.com/)
+* [Allie Nothum](https://www.createdbyallie.com/)
+* [Zack Stout](http://www.zstout.com)
+* [Blaze Fugina](http://blazefugina.com/#/)
