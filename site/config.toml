@@ -37,7 +37,7 @@ disqusShortname = "www-joshnothum-tech"
 	copyright = "2018"
 	# Sharing options and author information in posts
 	aboutAuthor = "An asipiring ironist."
-	tweet = "@josh_nothum"
+	tweet = "Josh Nothum"
 	share = ""
 	# 404 page
 	title404 = ""
@@ -58,3 +58,4 @@ disqusShortname = "www-joshnothum-tech"
     github   = "https://www.github.com/joshnothum"
 	spotify  = "https://open.spotify.com/user/joshnothum"
 	linkedin = "https://www.linkedin.com/in/josh-nothum/"
+	medium   = "https://medium.com/lifes-a-glitch"
