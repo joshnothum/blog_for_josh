@@ -33,8 +33,8 @@ disqusShortname = "www-joshnothum-tech"
 	# Pagination links
 	olderPosts = "Old"
 	newerPosts = "New"
-	readMore = "true"
-	copyright = ""
+	readMore = ""
+	copyright = "2018"
 	# Sharing options and author information in posts
 	aboutAuthor = "An asipiring ironist."
 	tweet = ""
