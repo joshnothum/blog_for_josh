@@ -11,7 +11,7 @@ draft: false
 ---
 
 * Reggie Miller in 1995's ["Choke"](https://youtu.be/Jd4Tejb14zI?t=45s)
-* James Harden and Manu Ginobli in 2010s  ["Opposites Do Not Attract"](https://youtu.be/jQ247wtv8hU?t=3s)
+* James Harden and Manu Ginobli in 2012's  ["Opposites Do Not Attract"](https://youtu.be/jQ247wtv8hU?t=3s)
 * Lebron James in 2016's ["Who Needs Enemies?"](https://youtu.be/0Jto1kBa8Qc)
 * Bill Lamibier in 1991's ["Takes one to know one!"](https://youtu.be/YtKyto07Kz4?t=1m36s)
 * Paul Pierce in 2008's ["The Comeback Kid!"](https://www.youtube.com/watch?v=o80WOuUr5bs)
