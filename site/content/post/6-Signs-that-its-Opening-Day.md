@@ -1,11 +1,11 @@
 ---
-title: "6 Ways you know it's Opening Day"
+title: "6 Signs that it's Opening Day"
 author: "Josh Nothum"
 tags : [
     "baseball",
 ]
-linktitle: "6 Ways you know it's Opening Day"
-date: 2018-03-29T21:44:45-06:00
+linktitle: "6 Signs that it's Opening Day"
+date: 2018-03-29
 draft: false
 ---
 
