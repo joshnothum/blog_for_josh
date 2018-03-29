@@ -15,6 +15,6 @@ draft: false
 * Even if no one reads your blog, you still have to pay hosting fees.
 * Lists of 4 would have been easier and funnier.
 * It can always get worse.
-* But only if you let it.
+* But sometimes it doesn't.
 
 

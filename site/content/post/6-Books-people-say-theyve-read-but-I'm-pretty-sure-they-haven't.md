@@ -9,9 +9,9 @@ date: 2017-04-10T21:44:45-06:00
 draft: false
 ---
 
-* _Atlas Shrugged_
-* _Infinite Jest_
+* Atlas Shrugged
+* Infinite Jest
 * Terms and Conditions pamphlet
-* _Oxford English Dictionary_
+* Oxford English Dictionary
 * My Blog
 * Malcolm Gladwell's most recent New Yorker piece
