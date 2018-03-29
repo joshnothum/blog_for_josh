@@ -1,11 +1,11 @@
 ---
-title: "6 lessons I learned in the first year of 6ixes"
+title: "6 Lessons I learned in the first year of 6ixes"
 author: "Josh Nothum"
 tags : [
     "anniversary",
     "6ixes"
 ]
-linktitle: "6 lessons I learned in the first year of 6ixes"
+linktitle: "6 Lessons I learned in the first year of 6ixes"
 date: 2018-02-17T21:44:45-06:00
 draft: false
 ---
