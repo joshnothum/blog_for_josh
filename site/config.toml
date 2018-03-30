@@ -37,13 +37,13 @@ disqusShortname = "www-joshnothum-tech"
 	copyright = "2018"
 	# Sharing options and author information in posts
 	aboutAuthor = "An asipiring ironist."
-	tweet = "Josh Nothum"
+	tweet = "Tweet"
 	share = ""
 	# 404 page
 	title404 = ""
 	subtitle404 = ""
 
-	sitemap = "https://www.joshnothum.tech/"
+
 
 
 
