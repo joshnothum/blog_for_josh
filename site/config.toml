@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https:/www.joshnothum.tech/"
+baseurl = "/"
 themesDir = "themes/"
 languageCode = "en-us"
 title = "6ixes"
