@@ -59,6 +59,3 @@ disqusShortname = "www-joshnothum-tech"
 	spotify  = "https://open.spotify.com/user/joshnothum"
 	linkedin = "https://www.linkedin.com/in/josh-nothum/"
 	medium   = "https://medium.com/lifes-a-glitch"
-
-[sitemap]
-	filename = "https:joshnothum.tech/sitemap.xml"
