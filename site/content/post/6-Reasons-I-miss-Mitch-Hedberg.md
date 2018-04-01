@@ -8,7 +8,7 @@ tags : [
 ]
 linktitle: "6 Reasons I miss Mitch Hedberg"
 date: 2018-03-30T21:44:45-06:00
-draft: true
+draft: false
 ---
 
 * I don't have a girlfriend. But I do know a woman who would be mad at me for saying that.
