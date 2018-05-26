@@ -9,7 +9,7 @@ date: 2018-03-29
 draft: false
 ---
 
-* Target Field has people in it
+* Target Field has people in it.
 * The weather report puts that fun little baseball in the corner of the daily forecast.
 * Everyone skips work (only in St. Louis).
 * Everyone wonders why I skipped work (only in Minneapolis).
